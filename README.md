@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AbdulHannanF
 - 👀 I’m interested in Python programming as well as HTML, CSS and JavaScript.
 - 🌱 I’m currently working on Python,its frameworks such as Django.
-- 💞️ I’m looking to collaborate on mostly everything('-')
+- I’m looking to collaborate on mostly everything('-')
 - 📫 How to reach me edwardkenway2800@gmail.com
 
 <!---
