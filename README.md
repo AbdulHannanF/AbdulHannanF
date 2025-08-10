@@ -52,18 +52,19 @@ My mission is to merge **space science**, **robotics**, and **software engineeri
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)  
 ![Logisim](https://img.shields.io/badge/Logisim-FF0000?style=for-the-badge&logo=circuitverse&logoColor=white)  
 
-
 ## 📂 Featured Projects
-- **[3d-renderer](#)** — C# / TypeScript / JavaScript: A 3D soft engine from scratch in C#
-- **[go-blockchain](#)** — Building Blockchain in Go
-- **[qgis-lujiazui-3d](#)** — Urban traffic and building visualization pipeline for Shanghai’s Lujiazui district.
-- **[clt-rust](#)** — Writing a Command Line Tool in Rust
-- **[rust-os](#)** — - Writing an OS in Rust
-- **[kitsune](#)** — - Rust: building a browser engine
-- **[webserver-with-php](#)** — - PHP: Writing a webserver in pure PHP
-- **[physics-engine](#)** —- Broad Phase Collision Detection Using Spatial Partitioning - JavaScript
-- **[drone-path-planning](#)** — *Python / ROS / Matplotlib*  
-  High-fidelity path planning and obstacle avoidance for UAVs using A* and Potential Field methods, including 3D simulation, visualization, and algorithmic performance comparison.
+
+| Project | Tech Stack | Description |
+|---------|------------|-------------|
+| **SoftEngine-3D** | C# · TypeScript · JavaScript | Custom-built **3D software renderer** implementing rasterization, projection matrices, and lighting algorithms without external graphics libraries. |
+| **GoChain** | Go | A **lightweight blockchain** with proof-of-work, P2P networking, and secure transaction validation. |
+| **Lujiazui-3DMap** | Python · QGIS · Three.js | A **geospatial visualization pipeline** for high-fidelity 3D rendering of urban traffic and building datasets in Shanghai’s Lujiazui district. |
+| **RustCLI** | Rust | A **high-performance CLI utility** featuring robust argument parsing, concurrent processing, and cross-platform compatibility. |
+| **RustOS** | Rust | A **minimalist operating system kernel** from scratch, including memory management, process scheduling, and hardware interfacing. |
+| **KitsuneEngine** | Rust | A **browser engine** with custom HTML/CSS parsing, layout computation, and rendering workflows. |
+| **PHPServer** | PHP | A **pure PHP HTTP server** capable of request routing, static file delivery, and basic session handling. |
+| **JS-Physics** | JavaScript | A **broad-phase collision detection system** using spatial partitioning for optimized real-time simulations. |
+| **AeroPath** | Python · ROS · Matplotlib | Developed a **UAV path planning framework** leveraging A* and Potential Field algorithms, with 3D simulation, visualization, and performance benchmarking. |
 
 ---
 
