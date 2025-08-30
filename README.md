@@ -64,7 +64,7 @@ My mission is to merge **space science**, **robotics**, and **software engineeri
 | **KitsuneEngine** | Rust | A **browser engine** with custom HTML/CSS parsing, layout computation, and rendering workflows. |
 | **PHPServer** | PHP | A **pure PHP HTTP server** capable of request routing, static file delivery, and basic session handling. |
 | **JS-Physics** | JavaScript | A **broad-phase collision detection system** using spatial partitioning for optimized real-time simulations. |
-| **AeroPath** | Python · ROS · Matplotlib | Developed a **UAV path planning framework** leveraging A* and Potential Field algorithms, with 3D simulation, visualization, and performance benchmarking. |
+| **AeroPath** | Python · ROS · Matplotlib | A **UAV path planning framework** leveraging A* and Potential Field algorithms, with 3D simulation, visualization, and performance benchmarking. |
 
 ---
 
